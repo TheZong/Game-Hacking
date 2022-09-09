@@ -1,4 +1,4 @@
-# Game Hacking & cracking
+# Game Hacking & Cracking
 
 I made a GitHub repo for multiple websites and tools that will help you, because bookmarks get annoying after a while.
 
@@ -48,6 +48,7 @@ Links with a ⭐ are recommended by me as I think they have the best website/too
 
 ⭐[ScyllaHide](https://github.com/mrexodia/titanhide) - TitanHide is a driver intended to hide debuggers from certain processes.
 
+[KS Dumper](https://github.com/EquiFox/KsDumper) 
 
 ## Misc
 ⭐ [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Activate practically any Microsoft product.
