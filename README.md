@@ -1,8 +1,10 @@
 # Game Hacking & Cracking
 
-I made a GitHub repo for multiple websites and tools that will help you, because bookmarks get annoying after a while.
+I made a gitHub repo that contains links to multiple websites and tools that will help you, because bookmarking everything will get annoying after a while.
 
-Links with a ⭐ are recommended by me as I think they have the best website/tool. It's all personal opinion.
+Links with a ⭐ are recommended by me as I think they have the best website/tool - It's all personal opinion.
+
+If you would like to add something then make a pull request and change/add or remove anything and explain why
 
 
 ## Decent Websites
@@ -13,8 +15,6 @@ Links with a ⭐ are recommended by me as I think they have the best website/too
 ⭐[Game Hacking Academy](https://gamehacking.academy/about) - Another website that will provide info to help you to create cheats
 
 [The Ultimate Anti Reversing Guide](https://anti-reversing.com/Downloads/Anti-Reversing/The_Ultimate_Anti-Reversing_Reference.pdf) - A pdf file that gives you certain techniques that make it difficult to reverse-engineer malware.
-
-[HXD](https://mh-nexus.de/en/hxd/) - HxD is a carefully designed and fast hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 
 [Unknown Cheats](https://www.unknowncheats.me/forum/index.php) - not as great as guidedhacking or game hacking academy but still good to download source code and certain menus or to ask for help
 
@@ -36,6 +36,8 @@ Links with a ⭐ are recommended by me as I think they have the best website/too
 [Ida Pro](https://mega.nz/file/jMJgEDBJ#HXf7R9fRJ1a5jyKNB-GSW2uj-O5FMYadMVqIY4uD3Gs) - Its a good tool that is primarily a multi-platform, multi processor and a disassembler that translates machine executable code into source code for purpose of debugging and reverse engineering.
 
 [KD Mapper](https://github.com/TheCruZ/kdmapper) - its a simple mapper that manually maps drivers.
+
+[HXD](https://mh-nexus.de/en/hxd/) - HxD is a carefully designed and fast hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 
 ## Cracking
 ⭐[ReClassEx](https://github.com/ajkhoury/ReClassEx)
