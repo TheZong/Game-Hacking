@@ -8,18 +8,17 @@ Links with a ⭐ are recommended by me as I think they have the best website/too
 ## Decent Websites
 ⭐[C++ Reference](https://en.cppreference.com/w/)  A decent website for learning c++.
 
-⭐[Guided Hacking](https://guidedhacking.com/) - Another great megathread with some extras.
+⭐[Guided Hacking](https://guidedhacking.com/) - An amazing website that has all of you info you need to get started creating cheats for games
 
-
-⭐[Game Hacking Academy](https://gamehacking.academy/about) - Again, one of the most trusthworthy threads out there, but specifically for roms.
+⭐[Game Hacking Academy](https://gamehacking.academy/about) - Another website that will provide info to help you to create cheats
 
 [The Ultimate Anti Reversing Guide](https://anti-reversing.com/Downloads/Anti-Reversing/The_Ultimate_Anti-Reversing_Reference.pdf) - A pdf file that gives you certain techniques that make it difficult to reverse-engineer malware.
 
-[HXD](https://mh-nexus.de/en/hxd/) - Very highly recommended by veteran pirates. Like this list but better.
+[HXD](https://mh-nexus.de/en/hxd/) - HxD is a carefully designed and fast hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 
-[Unknown Cheats](https://www.unknowncheats.me/forum/index.php) - Stuff by johncena141, a linux games uploader on 1337x.
+[Unknown Cheats](https://www.unknowncheats.me/forum/index.php) - not as great as guidedhacking or game hacking academy but still good to download source code and certain menus or to ask for help
 
-[Learncpp](https://www.learncpp.com/) - Covers things even broader than piracy, lots of stuff here.
+[Learncpp](https://www.learncpp.com/) - another decent website for learning cpp
 
 ## Tools
 [TDL](https://github.com/hfiref0x/TDL) - A tool that allows you to bypass Windows x64 Driver Signature Enforcement.
@@ -32,9 +31,11 @@ Links with a ⭐ are recommended by me as I think they have the best website/too
 
 [GH-Offset Dumper](https://github.com/guided-hacking/GH-Offset-Dumper) - This dumper externall scans a process for signatures and dumps the relative offsets to a header file then you can incorporate it into your project.
 
-[KsDumper](https://github.com/EquiFox/KsDumper)
+[KS Dumper](https://github.com/EquiFox/KsDumper) 
 
 [Ida Pro](https://mega.nz/file/jMJgEDBJ#HXf7R9fRJ1a5jyKNB-GSW2uj-O5FMYadMVqIY4uD3Gs) - Its a good tool that is primarily a multi-platform, multi processor and a disassembler that translates machine executable code into source code for purpose of debugging and reverse engineering.
+
+[KD Mapper](https://github.com/TheCruZ/kdmapper) - its a simple mapper that manually maps drivers.
 
 ## Cracking
 ⭐[ReClassEx](https://github.com/ajkhoury/ReClassEx)
