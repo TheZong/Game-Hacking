@@ -25,7 +25,7 @@ If you would like to add something then make a pull request and change/add or re
 
 [Eac-mapper](https://github.com/Compiled-Code/eac-mapper) - A mapper that works for the EAC Anti Cheat.
 
-[Nemesis](https://github.com/not-matthias/Nemesis) - Allows you to dump the selected certain process.
+[Nemesis](https://github.com/not-matthias/Nemesis) - Allows you to dump the selected process.
 
 [Blaze Dumper](https://github.com/Akandesh/blazedumper) - If youre into making cheats for csgo, then here you go.
 
@@ -48,7 +48,7 @@ If you would like to add something then make a pull request and change/add or re
 
 ⭐[ScyllaHide](https://github.com/x64dbg/ScyllaHide) - ScyllaHide is an advanced open-source x64/x86 user mode Anti-Anti-Debug library. It hooks various functions to hide debugging. This tool is intended to stay in user mode (ring 3)
 
-⭐[ScyllaHide](https://github.com/mrexodia/titanhide) - TitanHide is a driver intended to hide debuggers from certain processes.
+⭐[Titanhide](https://github.com/mrexodia/titanhide) - TitanHide is a driver intended to hide debuggers from certain processes.
 
 [KS Dumper](https://github.com/EquiFox/KsDumper) 
 
