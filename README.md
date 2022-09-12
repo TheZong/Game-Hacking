@@ -10,13 +10,13 @@ If you would like to add something then make a pull request and change/add or re
 ## Decent Websites
 ⭐[C++ Reference](https://en.cppreference.com/w/)  A decent website for learning c++.
 
-⭐[Guided Hacking](https://guidedhacking.com/) - An amazing website that has all of you info you need to get started creating cheats for games
+⭐[Guided Hacking](https://guidedhacking.com/) - An decent website that will teach you the basics and how to do something + provides some tools but is hidden behind a paywall
 
 ⭐[Game Hacking Academy](https://gamehacking.academy/about) - Another website that will provide info to help you to create cheats
 
 [The Ultimate Anti Reversing Guide](https://anti-reversing.com/Downloads/Anti-Reversing/The_Ultimate_Anti-Reversing_Reference.pdf) - A pdf file that gives you certain techniques that make it difficult to reverse-engineer malware.
 
-[Unknown Cheats](https://www.unknowncheats.me/forum/index.php) - not as great as guidedhacking or game hacking academy but still good to download source code and certain menus or to ask for help
+[Unknown Cheats](https://www.unknowncheats.me/forum/index.php) - Is pretty good when it comes to asking for help on certain things or looking at resources
 
 [Learncpp](https://www.learncpp.com/) - another decent website for learning cpp
 
