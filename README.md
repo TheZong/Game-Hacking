@@ -2,9 +2,9 @@
 
 I made a gitHub repo that contains links to multiple websites and tools that will help you, because bookmarking everything will get annoying after a while.
 
-Links with a ⭐ are recommended by me as I think they have the best website/tool - It's all personal opinion.
+Links with a ⭐ are recommended by me as I think they are the best website/tool - Please note it's all personal opinion.
 
-If you would like to add something then make a pull request and change/add or remove anything and explain why
+If you would like to change something then make a pull request and change/add or remove anything and explain why
 
 
 ## Decent Websites
