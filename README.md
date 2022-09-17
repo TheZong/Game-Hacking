@@ -38,13 +38,45 @@ If you would like to change something then make a pull request and change/add or
 
 [KD Mapper](https://github.com/TheCruZ/kdmapper) - its a simple mapper that manually maps drivers.
 
-[Visual Studio](https://visualstudio.microsoft.com/)
+[Visual Studio](https://visualstudio.microsoft.com/) - if you dont know what this is then god help you
+
+
+## Decent Youtubers
+
+###### Videos about game cheat development or cracking
+[Null](https://www.youtube.com/c/NullTerminator)
+
+[Blood Fayte](https://www.youtube.com/user/BloodFayte)
+
+[Guided Hacking](https://www.youtube.com/user/L4DL4D2EUROPE)
+
+[Hack Vise](https://www.youtube.com/user/HackVise)
+
+###### Videos on cyber security, hacking (mostly ethical), opsec etc
+[Mental Outlaw](https://www.youtube.com/c/MentalOutlaw)
+
+[Seytonic](https://www.youtube.com/c/Seytonic)
+
+[Some Ordinary Gamers](https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ)
+
+[Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+
+[The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
+
+[Marcus Hutchins](https://www.youtube.com/c/MalwareTechBlog)
 
 
 # Good games to develop cheats for
 [Assault Cube](https://assault.cubers.net/)
 
 [Xonotic](https://xonotic.org/)
+
+###### Games with terrible anticheats
+[Gta 5](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/)
+
+[CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
+
+[RDR 2](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
 
 
 ## Cracking
@@ -58,7 +90,7 @@ If you would like to change something then make a pull request and change/add or
 
 ⭐[Titan Hide](https://github.com/mrexodia/titanhide) - TitanHide is a driver intended to hide debuggers from certain processes.
 
-[KS Dumper](https://github.com/EquiFox/KsDumper) 
+[KS Dumper](https://github.com/EquiFox/KsDumper) - good for dumping processes
 
 
 ## Misc
