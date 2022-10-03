@@ -11,7 +11,7 @@ If you would like to change something then make a pull request and change/add or
 
 ⭐[Game Hacking Academy](https://gamehacking.academy/about) - Another website that will provide info to help you to create cheats
 
-[Unknown Cheats](https://www.unknowncheats.me/forum/index.php) - Its a pretty good when it comes to asking for help on certain things or looking at resources
+⭐[Unknown Cheats](https://www.unknowncheats.me/forum/index.php) - Its a pretty good when it comes to asking for help on certain things or looking at resources
 
 [The Ultimate Anti Reversing Guide](https://anti-reversing.com/Downloads/Anti-Reversing/The_Ultimate_Anti-Reversing_Reference.pdf) - A pdf file that gives you certain techniques that make it difficult to reverse-engineer malware.
 
@@ -32,13 +32,54 @@ If you would like to change something then make a pull request and change/add or
 
 [GH-Offset Dumper](https://github.com/guided-hacking/GH-Offset-Dumper) - This dumper externall scans a process for signatures and dumps the relative offsets to a header file then you can incorporate it into your project.
 
-[KS Dumper](https://github.com/EquiFox/KsDumper) 
+[KS Dumper](https://github.com/EquiFox/KsDumper) - A dumper 
 
 [Ida Pro](https://mega.nz/file/jMJgEDBJ#HXf7R9fRJ1a5jyKNB-GSW2uj-O5FMYadMVqIY4uD3Gs) - Its a good tool that is primarily a multi-platform, multi processor and a disassembler that translates machine executable code into source code for purpose of debugging and reverse engineering.
 
 [KD Mapper](https://github.com/TheCruZ/kdmapper) - its a simple mapper that manually maps drivers.
 
 [Visual Studio](https://visualstudio.microsoft.com/) - if you dont know what this is then god help you
+
+[FakeEye](https://github.com/Hypercall/FakeEye) - A lightweight BattlEye emulator of the launcher
+
+[Gta Sigcan & Antisig](https://www.unknowncheats.me/forum/grand-theft-auto-v/495613-sigscan-emulator-disabler.html#post3405162)
+
+[ExtraLayer - AntiDebugging tool](https://github.com/ImInTheICU/ExtraLayer) - a tool you could use to stop people from debugging your own *pasted* cheat
+
+[Rebirth Guard](https://github.com/chztbby/RebirthGuard) - An anticheat library for windows
+
+[Process Injection Techniques](https://github.com/MahmoudZohdy/Process-Injection-Techniques) - different lists of how you can inject into a process
+
+[Run as Trusted Installer](https://github.com/lilkui/runasti) - an example of how you can make your loader/apps run as a trusted installer
+
+[Dll Encryptor](https://github.com/unreaIuser/dll-encryptor) - dll encryption, stops those pesky crackers from grabbing your dll instantly 
+
+
+## Good bases you can start off with
+
+###### CSGO
+
+[Millionware](https://github.com/laine/millionware-v1)
+
+[GarHal](https://github.com/dretax/GarHal_CSGO)
+
+[Osiris](https://github.com/danielkrupinski/Osiris)
+
+[ZBase](https://github.com/Coopyy/ZBase-CSGO)
+
+###### GTA 5
+
+[BBv1](https://www.unknowncheats.me/forum/grand-theft-auto-v/312661-bigbase.html)
+
+[BBv2](https://github.com/Pocakking/BigBaseV2)
+
+[Nano42](https://www.unknowncheats.me/forum/grand-theft-auto-v/301091-updated-1-44-nano42-base.html)
+
+###### RDR:2
+
+[RDR2-Internal](https://github.com/Device9999/RDR2-Internal)
+
+
 
 
 ## Decent Youtubers
@@ -100,6 +141,7 @@ If you would like to change something then make a pull request and change/add or
 
 [Discord Rich Presence for x64dbg](https://github.com/EinTim23/Discord-rich-presence-for-x64dbg) - A discord presence
 
+[Atlas](https://atlasos.net/)
 
 ## Extensions
 
@@ -112,7 +154,5 @@ If you would like to change something then make a pull request and change/add or
 [Sponser Block](https://sponsor.ajay.app/) - Automatically skips the sponsers in youtube videos
 
 [Youtube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass)
-
-[Atlas](https://atlasos.net/)
 
 [HTTPS Everywhere](https://www.eff.org/https-everywhere)
