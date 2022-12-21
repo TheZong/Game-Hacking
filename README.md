@@ -139,7 +139,7 @@ If you would like to change something then make a pull request and change/add or
 
 ⭐ [Defender Control](https://github.com/qtkite/defender-control) - Disables Windows Defender Control.
 
-[Discord Rich Presence for x64dbg](https://github.com/EinTim23/Discord-rich-presence-for-x64dbg) - A discord presence
+[Discord Rich Presence for x64dbg](https://github.com/robiot/x64dbg-DiscordRPC) - A discord presence
 
 [Atlas](https://atlasos.net/)
 
